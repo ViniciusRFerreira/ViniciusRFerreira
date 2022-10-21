@@ -1,4 +1,4 @@
-### Hello, my brother ✌
+### Hello bro ✌
 
 <!--
 **ViniciusRFerreira/ViniciusRFerreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
