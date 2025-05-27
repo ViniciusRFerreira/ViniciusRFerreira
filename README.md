@@ -2,6 +2,9 @@ Hello bro ✌
 
 - 🔭 Desenvolvedor back-end
 
+  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+          
+
 <div align="center">
   <a href="https://github.com/ViniciusRFerreira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciusRFerreira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -10,6 +13,8 @@ Hello bro ✌
 </div>
 
   <div style="display: inline_block"><br>
+  <i class="devicon-pandas-plain-wordmark"></i>
+          
   <img align="center" alt="Vinicius-py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Vinicius-py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" />          
   <img align="center" alt="Vinicius-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
