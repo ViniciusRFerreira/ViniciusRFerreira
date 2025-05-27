@@ -25,8 +25,8 @@ Hello bro ✌
                    
           
 </div>
-<hr>
-📬 Contato <br> <br>
+
+📬 Contato: <br> <br>
 
 | Contato | Link |
 |--------|------|
