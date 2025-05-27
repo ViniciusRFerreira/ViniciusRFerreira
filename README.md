@@ -26,7 +26,7 @@ Hello bro ✌
           
 </div>
 
- ##
+[![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viniguatu@gmail.com)
 
 <div> 
 <a href="mailto:viniguatu@gmail.com">
