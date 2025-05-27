@@ -25,6 +25,7 @@ Hello bro ✌
                    
           
 </div>
+<hr>
 <div> 
           📧 [viniguatu@gmail.com](mailto:viniguatu@gmail.com)
           <a href="mailto:viniguatu@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
