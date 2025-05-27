@@ -32,6 +32,6 @@ Hello bro ✌
 | Contato | Link |
 |--------|------|
 | ![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white) | [viniguatu@gmail.com](mailto:viniguatu@gmail.com) |
-| ![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white) | [LinkedIn](https://www.linkedin.com/in/vinícius-ramon-ferreira-68b062279/) |
+| ![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white) | [LinkedIn](https://www.linkedin.com/in/vin%C3%ADciusrferreira/) |
 
 
