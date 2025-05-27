@@ -1,8 +1,6 @@
 Hello bro ✌
 
 - 🔭 Desenvolvedor back-end
-
-  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
           
 
 <div align="center">
@@ -13,7 +11,6 @@ Hello bro ✌
 </div>
 
   <div style="display: inline_block"><br>
-  <i class="devicon-pandas-plain-wordmark"></i>
           
   <img align="center" alt="Vinicius-py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Vinicius-py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" />          
@@ -34,4 +31,6 @@ Hello bro ✌
 <div> 
   <a href = "email"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vinícius-ramon-ferreira-68b062279/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "email"><img src="https://img.shields.io/badge/-ReactJS-lightblue" target="_blank"></a>
+  
 </div>
