@@ -31,6 +31,6 @@ Hello bro ✌
 <div> 
   <a href = "email"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vinícius-ramon-ferreira-68b062279/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "email"><img src="https://img.shields.io/badge/-ReactJS-lightblue" target="_blank"></a>
+  <a href = "email"><img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white" target="_blank"></a>
   
 </div>
