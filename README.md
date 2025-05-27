@@ -11,7 +11,7 @@ Hello bro ✌
 </div>
 
   <div style="display: inline_block"><br>
-  🛠️ Linguagens e Ferramentas:
+  🛠️ Linguagens e Ferramentas: <br>
           
   <img align="center" alt="Vinicius-py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Vinicius-py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" />          
