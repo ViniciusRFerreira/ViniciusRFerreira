@@ -26,7 +26,7 @@ Hello bro ✌
           
 </div>
 <hr>
-📬 Contato
+📬 Contato<br>
 
 [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viniguatu@gmail.com) ou
 📧 [viniguatu@gmail.com](mailto:viniguatu@gmail.com) 
