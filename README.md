@@ -26,6 +26,7 @@ Hello bro ✌
           
 </div>
 <div> 
+          📧 Entre em contato: [viniguatu@gmail.com](mailto:viniguatu@gmail.com)
           <a href="mailto:viniguatu@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
           <a href="https://www.linkedin.com/in/vinícius-ramon-ferreira-68b062279/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
