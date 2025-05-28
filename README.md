@@ -14,7 +14,7 @@ Hello bro ✌
   🛠️ Linguagens e Ferramentas: <br><br>
           
   <img align="center" alt="Vinicius-py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <div class="container"><img align="center" alt="Vinicius-pandas" height="30" width="40" src="pandas.png"/>   </div>
+  <div class="container" style="background-color=black"><img align="center" alt="Vinicius-pandas" height="30" width="40" src="pandas.png"/>   </div>
          
   <img align="center" alt="Vinicius-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Vinicius-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
