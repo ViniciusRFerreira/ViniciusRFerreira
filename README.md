@@ -3,9 +3,8 @@ Hello bro ✌
 - 🔭 Desenvolvedor back-end
           
 
-<div align="center">
-  <a href="https://github.com/ViniciusRFerreira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciusRFerreira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<div align="center" style="display:flex; flex-wrap:wrap; gap:10px;">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciusRFerreira&show_icons=true&theme=dracula&include_all_commits=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusRFerreira&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
