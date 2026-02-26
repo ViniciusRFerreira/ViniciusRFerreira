@@ -1,7 +1,7 @@
 Hello bro ✌
 
 - 🔭 Desenvolvedor back-end
-- [Meu Portfólio] (https://viniciusrferreira.github.io/Portfolio/)
+- [Meu Portfólio](https://viniciusrferreira.github.io/Portfolio/)
           
 
 <div align="center" style="display:flex; flex-wrap:wrap; gap:10px;">
