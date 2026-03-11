@@ -20,18 +20,19 @@ Hello bro ✌
     <img align="center" alt="Vinicius-py" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg"/>
     <img align="center" alt="Vinicius-py" width="50" src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000"/>
     
-          
-  - 💻 front end <br>
-            
-  <img align="center" alt="Vinicius-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Vinicius-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Vinicius-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Vinicius-bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />          
-  <img align="center" alt="Vinicius-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
+  - 💻 front end <br><br>
+    <img align="center" alt="Vinicius-py" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg"/>
+    <img align="center" alt="Vinicius-py" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg"/>
+    <img align="center" alt="Vinicius-py" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg"/>
+    <img align="center" alt="Vinicius-py" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+    <img align="center" alt="Vinicius-py" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg"/>    
+                 
   
   - 🔧 tools <br>
-
-  <img align="center" alt="Vinicius-py" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" />
+    <img align="center" alt="Vinicius-py" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg"/>        
+    <img align="center" alt="Vinicius-py" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"/>
+    <img align="center" alt="Vinicius-py" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clion/clion-original.svg"/>        
+    <img align="center" alt="Vinicius-py" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg"/>
           
 </div>
 <br><br>
