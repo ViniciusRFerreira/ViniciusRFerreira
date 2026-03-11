@@ -20,7 +20,7 @@ Hello bro ✌
     <img align="center" alt="Vinicius-py" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" />
     <img align="center" alt="Vinicius-py" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"/>
     <img align="center" alt="Vinicius-py" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg"/>
-    <img align="center" alt="Vinicius-py" height="70" width="80" src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000"/>
+    <img align="center" alt="Vinicius-py" height="70" width="70" src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000"/>
     
           
   - 💻 front end        
