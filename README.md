@@ -1,6 +1,6 @@
 Hello bro ✌
 
-- 🔭 Desenvolvedor back-end
+- 🔭 Desenvolvedor full-stack, mas com foco em back-end
 - [Meu Portfólio](https://viniciusrferreira.github.io/Portfolio/)
           
 
