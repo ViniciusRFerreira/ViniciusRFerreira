@@ -19,8 +19,9 @@ Hello bro ✌
     <img align="center" alt="Vinicius-py" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"/>
     <img align="center" alt="Vinicius-py" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" />
     <img align="center" alt="Vinicius-py" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"/>
-    <img align="center" alt="Vinicius-py" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" />
-    <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="100" height="100" viewBox="0 0 48 48"></svg>
+    <img align="center" alt="Vinicius-py" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg"/>
+    <img align="center" alt="Vinicius-py" height="70" width="80" src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000"/>
+    
           
   - 💻 front end        
         
