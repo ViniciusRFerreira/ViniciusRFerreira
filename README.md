@@ -10,9 +10,7 @@ Hello bro ✌
   <img height="180em"
        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ViniciusRFerreira&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-
   <div style="display: inline_block"><br>
-  🛠️ Linguagens <br><br>
 
   - ⚙️ back-end <br>
   
@@ -31,7 +29,7 @@ Hello bro ✌
   <img align="center" alt="Vinicius-bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />          
   <img align="center" alt="Vinicius-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
   
-  - 🔧 Ferramentas <br>
+  - 🔧 tools <br>
 
   <img align="center" alt="Vinicius-py" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" />
           
