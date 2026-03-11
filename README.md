@@ -12,7 +12,7 @@ Hello bro ✌
 </div>
 
   <div style="display: inline_block"><br>
-  🛠️ Linguagens e Ferramentas <br><br>
+  🛠️ Linguagens <br><br>
 
   - ⚙️ back-end <br>
   
@@ -21,22 +21,23 @@ Hello bro ✌
     <img align="center" alt="Vinicius-py" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"/>
     <img align="center" alt="Vinicius-py" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg"/>
     <img align="center" alt="Vinicius-py" height="70" width="70" src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000"/>
-    <img align="center" alt="Vinicius-py" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" />
-          
     
           
-  - 💻 front end        
-        
+  - 💻 front end <br>
+            
   <img align="center" alt="Vinicius-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Vinicius-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Vinicius-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Vinicius-bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />          
-  <img align="center" alt="Vinicius-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>   
-                   
+  <img align="center" alt="Vinicius-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
+  
+  - 🔧 Ferramentas <br>
+
+  <img align="center" alt="Vinicius-py" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" />
           
 </div>
-<br> <br>
-📬 Contato: <br> <br>
+<br><br>
+📬 Contato: <br><br>
 
 | Contato | Link |
 |--------|------|
