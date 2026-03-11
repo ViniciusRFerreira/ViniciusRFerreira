@@ -3,7 +3,7 @@ Hello bro ✌
 - 🔭 Desenvolvedor full-stack, com foco em back-end
 - 📃 [Meu Portfólio](https://viniciusrferreira.github.io/Portfolio/)
           
-
+          
 <div align="center" style="display:flex; flex-wrap:wrap; gap:10px;">
   <img height="180em"
        src="https://github-readme-stats-sigma-five.vercel.app/api?username=ViniciusRFerreira&show_icons=true&theme=dracula&include_all_commits=true"/>
@@ -29,11 +29,13 @@ Hello bro ✌
                  
   
   - 🔧 tools <br>
+    <p>
     <img align="center" alt="Vinicius-py" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg"/>        
     <img align="center" alt="Vinicius-py" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"/>
-    <img align="center" alt="Vinicius-py" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clion/clion-original.svg"/>        
-    <img align="center" alt="Vinicius-py" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg"/>
-          
+    <img align="center" alt="Vinicius-py" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clion/clion-original.svg"/>
+    <img align="center" alt="Vinicius-py" width="50" src="https://cdn.simpleicons.org/gnubash/white"/> 
+    <img align="center" alt="Vinicius-py" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg"/>
+    </p>      
 </div>
 <br><br>
 📬 Contato: <br><br>
