@@ -19,10 +19,6 @@ Hello bro ✌
 
 <div align="center">
 
-<div align="center">
-  <img src="./python-animation.gif" width="700" alt="Python Animation">
-</div>
-
 </div>
 
 <br>
