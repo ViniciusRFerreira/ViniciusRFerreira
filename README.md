@@ -19,7 +19,9 @@ Hello bro ✌
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=250&pause=1800&color=3776AB&center=true&vCenter=true&repeat=true&width=250&height=50&lines=%F0%9F%90%8D+Python" alt="Python"/>
+<div align="center">
+  <img src="./python-animation.gif" width="700" alt="Python Animation">
+</div>
 
 </div>
 
